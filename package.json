@@ -1,0 +1,16 @@
+{
+  "name": "optimism-nft-minter-a9nkof",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mordiscos/optimism-nft-minter-a9nkof.git",
+  "author": "mordisco <mordisco@mordisco.xyz> (https://www.mordisco.xyz)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
